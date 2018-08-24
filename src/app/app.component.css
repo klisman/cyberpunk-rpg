@@ -1,0 +1,12 @@
+.footer {
+  position: fixed;
+  bottom: 0px;
+  width:100%;
+  z-index: 102;
+  padding: 0;
+  background-color: #ffffff;
+  border: 1px solid #c8c8c8;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 14px;
+  text-align: center;
+}
